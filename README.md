@@ -15,7 +15,7 @@ inheritance and composition.
 |------|-------------|
 | `exercise.dart` | Contains all required classes (Person, Author, Book, Customer) |
 | `main.dart` | Creates sample objects and runs the required tests |
-| `screenshots/output.png` | Screenshot showing the full program output (optional) |
+| `screenshots/OutputHW2.png` | Screenshot showing the full program output (optional) |
 
 ------------------------------------------------------------------------
 
