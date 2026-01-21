@@ -1,6 +1,6 @@
 # 🐦 Dart Homework 2 (OOP Exercise)
 
-Homework submission for **Flutter & Dart Bootcamp -- Week 1**.\
+Homework submission for **Flutter & Dart Bootcamp - Week 1**.\
 This project implements a simple **OOP system** in Dart using
 inheritance and composition.
 
@@ -11,18 +11,11 @@ inheritance and composition.
 
 ## 📁 Files
 
-  ---------------------------------------------------------------------------
-  File                       Description
-  -------------------------- ------------------------------------------------
-  `exercise.dart`            Contains all required classes (`Person`,
-                             `Author`, `Book`, `Customer`)
-
-  `main.dart`                Creates sample objects and runs the required
-                             tests
-
-  `screenshots/output.png`   Screenshot showing the full program output
-                             (optional)
-  ---------------------------------------------------------------------------
+| File | Description |
+|------|-------------|
+| `exercise.dart` | Contains all required classes (Person, Author, Book, Customer) |
+| `main.dart` | Creates sample objects and runs the required tests |
+| `screenshots/output.png` | Screenshot showing the full program output (optional) |
 
 ------------------------------------------------------------------------
 
